@@ -1,0 +1,23 @@
+{
+    "name": "真心话大冒险",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "无标题": "github:nujabes0904/microbit#2c5ffd812328b2a00855977faaafc1b20976ac2d"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
